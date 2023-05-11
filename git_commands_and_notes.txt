@@ -1,0 +1,9 @@
+Git Commands - 
+git status
+
+git add <filename>
+
+git commit
+
+    
+git push origin main
