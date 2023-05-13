@@ -5,3 +5,62 @@ M - Measured
 A - Actionable
 R - Relavant (to the key problem)
 T - Time Bound
+
+Other things to consider - 
+1. Who is it for?
+2. What do they want?
+3. How will you know when you got what they want?
+
+
+Problem Reframing - 85% C level executives strongly agree that their companies struggle to correctly identify and frame problems. 
+
+Slow Elevator example - You have an office building and there are multiple tenants. Tenants are complaining that the elevators are too slow and are threatening to term the lease early. 
+
+Jumping into Solutions - 1) Install new elevator 2) Upgrade motor 3) Improve Algorithm. 
+
+Looking at a problem with a different perspective - 
+
+Example 1 - Reframe the problem from "Elevator is too slow" to "Waiting is annoying". Possible solutions for the second problem 1) Install a mirror for people to look at, 2) Play music in lobby
+3) Install hand sanitizers. Anything that wouldn't make wait feel so long. 
+
+Example 2 - Reframe the problem to "High traffic times/high demand" - this could be solved by spreading out demand, such as changing lunch break times. 
+
+The very idea that a single root cause/problem exists is misleading; problems are typically multicausal and can be addressed in many different ways.
+
+The 7 components of reframing a problem - 
+
+1. Establish legitimacy.
+2. Get outsiders into discussion.
+3. Get people's definitions in writing.
+4. Ask What's missing.
+5. Analyze positive outcomes. 
+6. Consider multiple categories.
+7. Question people's objectives.
+
+1 -> Explain elevator problem in 2 minutes. Encourage people to not jumpt to conclusions and spend ample time framing and then re-framing the problem. 
+
+2 -> Outsiders are people who are "on the peripheral proximity" e.g. an HR person or a Personal Assistant who is working in the same team but is not the direct expert. They can observe the
+problem in a different way. E.g. when executives at a company tried to launch three different innovation frameworks to promote innovation amongst employees. The HR pointed it out in the meeting that
+there have been similar initiatives in the past that did not work. The issue was not skill/talent related but employee engagment related. The employees were not motivated enought to buy into the
+innovation initiatives. So the problem was correctly categorized as a employee engagement problem.
+
+3 -> This is obvious, speaking in groups will give an impression that everyone is on the same page. However, when different team members are asked to write their version of the problem statement, 
+different versions come to light. To effectively do this, you want to ask the definitions to be submitted to one person, and then looked at without revealing who wrote which. This helps remove
+personnel bias and helps establish more concrete problem statement and also get everyone to have the same understanding of the problem. This also saves future disagreements. 
+
+4 -> After looking at a problem, you need to ask the question on what's missing. Sometimes key details are ofetn missed. 
+
+5 -> Analyzing positive outcomes means, instead of focusing of when something doesn't work, focus instead on times when that same thing did work. This helps in two ways. One it helps you to think 
+of the problem in a different way. Two, it helps disarming people (specially when discussion the problem in larger crowd), who can immediately become uncomfortable or defensive looking at it in a 
+negative light. People are more comfortable analyzing positive outcomes while looking at an issue. 
+
+6 -> Two examples on problem categorization. One was on dog shelters and adoption example. The original problem was approached as an "increase dog adoption" problem. Lori Weise changed the problem
+to "Keeping the dogs with their original owners". Second was for Zinn and Nickelodean. Where originally the problem was perceived to be usability issue. All the usability experts trying to figure
+out how to make the cable tv login prompt easier for kids who drop out at that step. The problem was then diagnosed as an "emotional problem" as kids felt guilty to ask parents for password. They
+fixed it by launching a 30 seconds video before login to explain to kids that it's okay to ask for password for Nickelodean. This also combines the idea of bringing outsider's perspective. 
+"Give a hammer to a small kid, and he will think almost everything that comes his way needs pounding." Which is similar to Usability experts only looking at it in one way and missing out other ways.
+
+7 -> Question the objective. If two people are arguing over, "I Want the window open" and "I Want it closed", you need to really ask the objectives and explanation of why. Sometimes revealing objec-
+tives helps find solutions. Example of US Military and US Warfare. Originally the aim was to become stronger to finght the local insurgents and defeat them. The strategies were around how to quickly
+eliminate insurgents. The aim was then shifted to prevent insurgents for cropping up. This was done by focusing on getting local people on  their side. Because normally insurgents are aided by locals
+, focusing on bringing locals together helped prevent infiltrations. 
