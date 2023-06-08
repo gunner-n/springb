@@ -3,7 +3,21 @@ git status
 
 git add <filename>
 
-git commit
+git commit -m "insert comment here for the code changes"
 
     
-git push origin main
+git push origin main - to push changes from main branch
+
+git checkout -b dev - this will create a new branch 
+git push --set-upstream origin dev - this will add the parent as 'main'
+
+to change between branches use the checkout command
+
+git checkout dev  -> will put you in dev branch
+fit checkout main -> will put you in main branch
+
+Note that having multiple branches does not mean you will see multiple copies of your project/repository (in this case springb) on your local computer. This only means that the changes can be commited to any branch you want by going over to that branch. 
+
+For instance, currently I am modifying this file and I am checked out to dev branch, and I will commit to dev branch once the changes are completed. 
+
+In order to merge the changes to the main branch, you have to use a pull request in GitHub frontend. Then, after reviewing the changes between the two branches, you can complete the pull-merge request that will make the branches in sync.
